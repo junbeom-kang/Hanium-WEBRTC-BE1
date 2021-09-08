@@ -11,7 +11,7 @@
 https://www.figma.com/file/sUygHoToK8FQanoTIHrLPc/webRTC-%EC%99%80%EC%9D%B4%EC%96%B4%ED%94%84%EB%A0%88%EC%9E%84?node-id=0%3A1
 
 ## ERD
-<img src="https://user-images.githubusercontent.com/59498625/132560535-245db2c8-c25c-41aa-a168-d46682824a24.png"><br>
+<img src="https://user-images.githubusercontent.com/59498625/132562755-70563a83-fa90-42e7-bf89-e4aff3b558fd.png"><br>
 
 ## 백앤드 주요 스택
 <img src="https://user-images.githubusercontent.com/59498625/132561895-0bdb6bcc-bdab-4dec-b2b7-648a4e61387a.png"><br>
