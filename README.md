@@ -7,7 +7,6 @@
 <br><br>
 
 ## 주요 기능 figma로 살펴보기
-<img src="https://user-images.githubusercontent.com/59498625/132559076-cd0923d7-9921-4416-b23d-0d519920d081.png" width="40%" height="40%"><br>
 ### figma 링크<br>
 https://www.figma.com/file/sUygHoToK8FQanoTIHrLPc/webRTC-%EC%99%80%EC%9D%B4%EC%96%B4%ED%94%84%EB%A0%88%EC%9E%84?node-id=0%3A1
 
